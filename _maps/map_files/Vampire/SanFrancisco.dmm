@@ -18630,23 +18630,6 @@
 	},
 /turf/open/floor/plating/vampwood,
 /area/vtm/interior/ghetto)
-"eOL" = (
-/obj/structure/closet/cabinet,
-/obj/item/melee/vampirearms/katana/kosa{
-	block_chance = 35;
-	color = "#808000";
-	desc = "A sophisticated scythe made from the best materials brought from Italy. Strange, usually mafiosi prefer guns... Emits grave energy";
-	force = 40;
-	name = "gravekeeper"
-	},
-/obj/item/vtm_artifact/rand,
-/obj/item/clothing/under/vampire/rich,
-/obj/item/clothing/under/suit/tan,
-/obj/item/clothing/under/suit/checkered,
-/obj/item/clothing/head/fedora/beige,
-/obj/item/clothing/head/fedora,
-/turf/open/floor/plating/parquetry/rich,
-/area/vtm/interior/giovanni/outside)
 "eOQ" = (
 /obj/effect/turf_decal/siding/wood{
 	color = "#665136";
@@ -231142,7 +231125,7 @@ mbv
 mbv
 mbv
 mbv
-eOL
+mbv
 bKy
 bKy
 bKy
