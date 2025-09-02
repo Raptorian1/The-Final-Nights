@@ -26131,6 +26131,7 @@
 /obj/structure/chair/wood/wings{
 	dir = 4
 	},
+/obj/effect/landmark/start/axe_gang,
 /turf/open/floor/carpet/red,
 /area/vtm/interior/laundromat)
 "gII" = (
@@ -31230,15 +31231,11 @@
 /area/vtm/interior/giovanni)
 "hXU" = (
 /obj/structure/table/wood,
-/obj/item/melee/vampirearms/sabre{
-	color = "#00A36C";
-	name = "Dai Lo's Dao";
-	desc = "A curved sword covered in a intricately etched pattern."
-	},
-/obj/item/storage/belt/vampire/sheathe/sabre,
 /obj/machinery/light{
 	pixel_y = 32
 	},
+/obj/item/melee/vampirearms/fireaxe,
+/obj/item/toy/crayon/spraycan,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/laundromat)
 "hYb" = (
@@ -31637,6 +31634,13 @@
 	},
 /turf/open/floor/plating/industrial,
 /area/vtm/interior/nosferatu_office)
+"idF" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/obj/effect/landmark/start/axe_gang,
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/interior/shop)
 "idJ" = (
 /obj/structure/rack,
 /obj/item/detective_scanner,
@@ -35857,6 +35861,14 @@
 /obj/structure/vampdoor/simple,
 /turf/open/floor/plating/toilet,
 /area/vtm/interior/shop)
+"jex" = (
+/obj/effect/turf_decal/siding/wideplating/dark{
+	dir = 1
+	},
+/obj/structure/chair/stool/bar,
+/obj/effect/landmark/start/liaison,
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/anarch)
 "jey" = (
 /obj/structure/vampdoor/old{
 	dir = 8;
@@ -42435,6 +42447,8 @@
 /area/vtm/interior/littleitaly)
 "kJk" = (
 /obj/structure/table/wood,
+/obj/item/melee/vampirearms/fireaxe,
+/obj/item/toy/crayon/spraycan,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/laundromat)
 "kJq" = (
@@ -55504,6 +55518,7 @@
 /obj/structure/chair/wood/wings{
 	dir = 8
 	},
+/obj/effect/landmark/start/axe_gang,
 /turf/open/floor/carpet/red,
 /area/vtm/interior/laundromat)
 "nPG" = (
@@ -57407,6 +57422,11 @@
 	},
 /turf/open/openspace,
 /area/vtm/interior/giovanni)
+"omI" = (
+/obj/structure/chair/wood,
+/obj/effect/landmark/start/axe_gang,
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/interior/shop)
 "omK" = (
 /obj/machinery/light/broken{
 	dir = 4
@@ -68611,6 +68631,14 @@
 /obj/item/food/grown/harebell,
 /turf/open/floor/plating/vampgrass,
 /area/vtm/forest)
+"qZh" = (
+/obj/effect/turf_decal/siding/wideplating/dark{
+	dir = 4
+	},
+/obj/structure/chair/stool/bar,
+/obj/effect/landmark/start/liaison,
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/anarch)
 "qZx" = (
 /obj/effect/decal/pallet,
 /turf/open/floor/plating/concrete,
@@ -84134,6 +84162,8 @@
 "vaP" = (
 /obj/structure/table/wood,
 /obj/item/storage/fancy/cigarettes/cigars/havana,
+/obj/item/melee/vampirearms/fireaxe,
+/obj/item/toy/crayon/spraycan,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/laundromat)
 "vaV" = (
@@ -171270,7 +171300,7 @@ raC
 pDk
 mNF
 sGz
-mCU
+jex
 uSP
 hZi
 hZi
@@ -171878,7 +171908,7 @@ hZi
 hZi
 hZi
 hEB
-pQv
+qZh
 pQv
 jOc
 jOc
@@ -203633,9 +203663,9 @@ tiU
 qaL
 aXQ
 wli
-oon
+omI
 oXV
-dNd
+idF
 fyE
 mjT
 mjT
@@ -204037,9 +204067,9 @@ qYu
 fzP
 xQB
 wli
-oon
+omI
 uLn
-dNd
+idF
 fyE
 mjT
 mjT
