@@ -58242,6 +58242,10 @@
 /area/vtm)
 "oum" = (
 /obj/structure/vampfence/rich,
+/obj/structure/vampfence/rich{
+	pixel_y = 16;
+	pixel_x = 0
+	},
 /turf/open/floor/plating/church,
 /area/vtm/interior/giovanni/basement)
 "out" = (
@@ -61187,6 +61191,10 @@
 /area/vtm/interior/apartment)
 "phR" = (
 /obj/structure/vampfence/rich,
+/obj/structure/vampfence/rich{
+	pixel_y = 16;
+	pixel_x = 0
+	},
 /turf/open/floor/plating/toilet{
 	color = "#919191"
 	},
@@ -93113,6 +93121,17 @@
 	icon_state = "carpet_black"
 	},
 /area/vtm/sewer/nosferatu_warren)
+"xnF" = (
+/obj/structure/vampfence/rich,
+/obj/structure/vampfence/rich,
+/obj/structure/vampfence/rich{
+	pixel_y = 16;
+	pixel_x = 0
+	},
+/turf/open/floor/plating/toilet{
+	color = "#919191"
+	},
+/area/vtm/interior/giovanni/basement)
 "xnH" = (
 /obj/structure/table/wood/fancy/red,
 /obj/item/candle/infinite{
@@ -93883,6 +93902,15 @@
 	dir = 4
 	},
 /turf/open/floor/plating/vampplating/stone,
+/area/vtm/interior/giovanni)
+"xAf" = (
+/obj/machinery/light/prince{
+	light_power = 0.45;
+	name = "dim light fixture";
+	dir = 1
+	},
+/obj/structure/clothinghanger,
+/turf/open/floor/carpet/royalblack,
 /area/vtm/interior/giovanni)
 "xAs" = (
 /obj/machinery/light/small{
@@ -96181,6 +96209,10 @@
 /area/vtm/interior/millennium_tower/f3)
 "ybQ" = (
 /obj/structure/vampfence/rich,
+/obj/structure/vampfence/rich{
+	pixel_y = 16;
+	pixel_x = 0
+	},
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior/giovanni/basement)
 "ycd" = (
@@ -106445,7 +106477,7 @@ wQH
 bnb
 dPc
 pCS
-phR
+xnF
 dPc
 prZ
 tua
@@ -107457,9 +107489,9 @@ dPc
 nuA
 oum
 dPc
-ybQ
-nuA
-oum
+uxG
+prZ
+tua
 jns
 jns
 jns
@@ -148667,7 +148699,7 @@ wBn
 wBn
 shB
 aOh
-ebE
+xAf
 jjw
 fNT
 wJp
@@ -150486,7 +150518,7 @@ hAz
 hAz
 aOh
 cVi
-ijU
+iFN
 ycp
 ycp
 koe
