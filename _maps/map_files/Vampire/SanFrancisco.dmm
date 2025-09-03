@@ -13762,6 +13762,11 @@
 /obj/structure/table/wood,
 /turf/closed/wall/vampwall/brick/low,
 /area/vtm/interior/setite)
+"dyl" = (
+/obj/effect/decal/wallpaper/red,
+/obj/item/wallframe/painting,
+/turf/closed/wall/vampwall/rich/old,
+/area/vtm/interior/chantry)
 "dyq" = (
 /obj/effect/decal/bordur{
 	dir = 8
@@ -14650,6 +14655,7 @@
 	dir = 4
 	},
 /obj/effect/decal/wallpaper/red,
+/obj/item/wallframe/painting,
 /turf/closed/wall/vampwall/rich/old,
 /area/vtm/interior/chantry)
 "dLg" = (
@@ -53585,6 +53591,11 @@
 	},
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior)
+"nlG" = (
+/obj/effect/decal/wallpaper/red,
+/obj/item/wallframe/painting,
+/turf/closed/wall/vampwall/rich/old,
+/area/vtm/interior/chantry/basement)
 "nlH" = (
 /obj/structure/chair/office{
 	dir = 1
@@ -62298,6 +62309,11 @@
 	color = "#8a8a8a"
 	},
 /area/vtm/interior/giovanni)
+"poN" = (
+/obj/effect/decal/wallpaper/light,
+/obj/item/wallframe/painting,
+/turf/closed/wall/vampwall/rich/old,
+/area/vtm/interior/chantry/basement)
 "poO" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1;
@@ -81623,6 +81639,7 @@
 	color = "#574d46"
 	},
 /obj/effect/decal/wallpaper/red,
+/obj/item/wallframe/painting,
 /turf/closed/wall/vampwall/rich/old,
 /area/vtm/interior/chantry)
 "ugX" = (
@@ -121823,7 +121840,7 @@ rCB
 rCB
 rCB
 oBr
-xZX
+poN
 wAb
 qkr
 wAb
@@ -122433,7 +122450,7 @@ xZX
 axU
 xaM
 eHw
-kMi
+nlG
 tet
 tet
 nwX
@@ -122445,7 +122462,7 @@ rCB
 rCB
 rCB
 oBr
-kMi
+nlG
 bnB
 rMc
 rMc
@@ -123032,7 +123049,7 @@ djf
 eWW
 wDL
 bhY
-kMi
+nlG
 gJe
 kPh
 kPh
@@ -123250,7 +123267,7 @@ eWW
 eWW
 eWW
 bhY
-kMi
+nlG
 hBe
 hBe
 szi
@@ -124061,7 +124078,7 @@ rCB
 rCB
 rCB
 oBr
-kMi
+nlG
 hBe
 hBe
 hBe
@@ -124248,11 +124265,11 @@ kMi
 tgZ
 eWW
 bhY
-kMi
+nlG
 olj
 mys
 jFT
-kMi
+nlG
 kPh
 kPh
 kPh
@@ -124446,7 +124463,7 @@ rCB
 rCB
 rCB
 rCB
-kMi
+nlG
 qmY
 eWW
 cAD
@@ -124652,7 +124669,7 @@ oBr
 oBr
 oBr
 oBr
-kMi
+nlG
 hfj
 hfj
 hfj
@@ -162013,7 +162030,7 @@ jcZ
 jcZ
 fTm
 mNz
-vTS
+dyl
 sgk
 umS
 sgk
@@ -162417,7 +162434,7 @@ jcZ
 jcZ
 lMj
 mNz
-vTS
+dyl
 xyR
 jjR
 sgk
@@ -162631,7 +162648,7 @@ qpV
 lRV
 vTS
 gZQ
-vTS
+dyl
 ofm
 gkO
 tLt
@@ -162821,7 +162838,7 @@ jcZ
 jcZ
 fTm
 mNz
-vTS
+dyl
 jjR
 xyR
 sgk
@@ -163427,7 +163444,7 @@ jcZ
 jcZ
 fTm
 mNz
-vTS
+dyl
 aaZ
 yfT
 sgk
@@ -163637,13 +163654,13 @@ vTS
 qTh
 oeY
 oeY
-vTS
+dyl
 ssN
 vWb
 efs
 cek
 jZa
-vTS
+dyl
 oeY
 oeY
 lVI
@@ -164657,7 +164674,7 @@ msS
 msS
 msS
 oKi
-vTS
+dyl
 bKq
 meM
 heY
@@ -203228,7 +203245,7 @@ msS
 iID
 msS
 msS
-vTS
+dyl
 sgk
 sgk
 ugK
@@ -204640,7 +204657,7 @@ mjT
 mjT
 mjT
 mjT
-vTS
+dyl
 sgk
 fVo
 gZQ
@@ -205058,7 +205075,7 @@ tbF
 sgk
 dKT
 fPo
-vTS
+dyl
 dpn
 lse
 dpn
