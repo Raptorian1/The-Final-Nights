@@ -5150,13 +5150,19 @@
 "bsU" = (
 /obj/structure/table/wood,
 /obj/vampire_computer,
-/obj/structure/sign/poster/contraband/dmc{
-	pixel_x = 18;
-	pixel_y = 36
+/obj/structure/strip_club{
+	icon = 'icons/obj/contraband.dmi';
+	icon_state = "poster_15";
+	pixel_x = 23;
+	pixel_y = 3;
+	desc = ""
 	},
-/obj/structure/sign/poster/vampire/wotw{
-	pixel_x = -3;
-	pixel_y = 35
+/obj/structure/strip_club{
+	icon = 'code/modules/wod13/posters.dmi';
+	icon_state = "war of the worlds";
+	pixel_x = 1;
+	pixel_y = 4;
+	desc = ""
 	},
 /turf/open/floor/plating/vampcarpet,
 /area/vtm/interior/chantry)
@@ -40649,9 +40655,12 @@
 /area/vtm/interior/giovanni)
 "kiP" = (
 /obj/effect/turf_decal/siding/thinplating/dark,
-/obj/structure/sign/poster/vampire/blade{
-	pixel_x = 0;
-	pixel_y = 34
+/obj/structure/strip_club{
+	icon = 'code/modules/wod13/posters.dmi';
+	icon_state = "blade";
+	pixel_x = 10;
+	pixel_y = -1;
+	desc = ""
 	},
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/chantry)
@@ -58583,9 +58592,12 @@
 "otq" = (
 /obj/structure/table/wood,
 /obj/vampire_computer,
-/obj/structure/sign/poster/vampire/cursed{
-	pixel_x = 3;
-	pixel_y = 32
+/obj/structure/strip_club{
+	icon_state = "cursed";
+	icon = 'code/modules/wod13/posters.dmi';
+	pixel_x = 6;
+	pixel_y = 3;
+	desc = ""
 	},
 /turf/open/floor/plating/vampcarpet,
 /area/vtm/interior/chantry)
@@ -63479,9 +63491,12 @@
 "pDj" = (
 /obj/structure/table/wood,
 /obj/vampire_computer,
-/obj/structure/sign/poster/vampire/blade{
-	pixel_x = 8;
-	pixel_y = 30
+/obj/structure/strip_club{
+	icon = 'code/modules/wod13/posters.dmi';
+	icon_state = "blade";
+	pixel_x = 15;
+	pixel_y = -2;
+	desc = ""
 	},
 /turf/open/floor/plating/vampcarpet,
 /area/vtm/interior/chantry)
@@ -76015,9 +76030,12 @@
 "sMY" = (
 /obj/structure/table/wood,
 /obj/vampire_computer,
-/obj/structure/sign/poster/vampire/lod{
-	pixel_x = 1;
-	pixel_y = 32
+/obj/structure/strip_club{
+	icon = 'code/modules/wod13/posters.dmi';
+	icon_state = "land of dead";
+	pixel_x = 8;
+	pixel_y = 2;
+	desc = ""
 	},
 /turf/open/floor/plating/vampcarpet,
 /area/vtm/interior/chantry)
