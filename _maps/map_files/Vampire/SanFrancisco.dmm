@@ -76378,14 +76378,14 @@
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior)
 "sQQ" = (
+/obj/effect/turf_decal/siding/wideplating/dark/corner,
+/obj/effect/turf_decal/siding/wideplating/dark{
+	dir = 1
+	},
 /obj/effect/turf_decal/siding/wood/corner{
 	color = "#503e28";
 	dir = 4
 	},
-/obj/effect/turf_decal/siding/wideplating/dark{
-	dir = 1
-	},
-/obj/effect/turf_decal/siding/wideplating/dark/corner,
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
 "sQR" = (
@@ -97559,6 +97559,16 @@
 	},
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm/ghetto)
+"ylW" = (
+/obj/effect/decal/bordur/corner{
+	dir = 1
+	},
+/obj/structure/fluff/hedge,
+/obj/structure/flora/ausbushes/ywflowers{
+	pixel_x = 4
+	},
+/turf/open/floor/plating/vampgrass,
+/area/vtm/interior/giovanni/outside)
 
 (1,1,1) = {"
 xfw
@@ -149293,7 +149303,7 @@ wJp
 mTa
 dcI
 dcI
-nEs
+ylW
 fSo
 jWb
 jWb
