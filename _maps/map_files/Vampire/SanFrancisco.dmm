@@ -10060,19 +10060,6 @@
 	},
 /turf/open/floor/plating/asphalt,
 /area/vtm/financialdistrict)
-"cBV" = (
-/obj/structure/vampipe{
-	icon_state = "piping31";
-	layer = 1;
-	renamedByPlayer = 3
-	},
-/obj/structure/vampipe{
-	icon_state = "piping31";
-	pixel_y = -7
-	},
-/obj/effect/decal/wallpaper/light,
-/turf/closed/wall/vampwall/rich/old,
-/area/vtm/interior/chantry)
 "cBZ" = (
 /obj/structure/fence,
 /turf/open/floor/plating/sidewalk/poor,
@@ -37457,14 +37444,6 @@
 	dir = 8
 	},
 /area/vtm/interior/millennium_tower)
-"juP" = (
-/obj/structure/vampipe{
-	icon_state = "piping31";
-	layer = 1;
-	renamedByPlayer = 3
-	},
-/turf/closed/wall/vampwall/rich/old,
-/area/vtm/interior/chantry)
 "juS" = (
 /obj/structure/musician/piano{
 	icon_state = "piano";
@@ -163470,7 +163449,7 @@ vfT
 iVE
 oQp
 iVE
-juP
+oab
 guM
 uCU
 hhw
@@ -163670,7 +163649,7 @@ oeY
 lVI
 vfT
 rct
-cBV
+vfT
 jrX
 oab
 guM
