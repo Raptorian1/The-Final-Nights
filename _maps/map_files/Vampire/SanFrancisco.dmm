@@ -13664,6 +13664,22 @@
 /obj/vampire_computer,
 /turf/open/floor/plating/vampplating,
 /area/vtm/interior/endron_facility/restricted)
+"dxd" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_y = 15;
+	pixel_x = 7
+	},
+/obj/item/paper_bin{
+	pixel_y = 8;
+	pixel_x = -1
+	},
+/obj/item/pen{
+	pixel_y = 4;
+	pixel_x = 8
+	},
+/turf/open/floor/carpet/red,
+/area/vtm/interior/chantry)
 "dxf" = (
 /obj/structure/dresser,
 /obj/item/flashlight/lamp/green{
@@ -14694,13 +14710,17 @@
 /area/vtm/interior)
 "dMw" = (
 /obj/structure/table/wood,
-/obj/item/flashlight/lamp/green{
-	pixel_y = 19;
-	pixel_x = 3
-	},
 /obj/structure/curtain/bounty{
 	pixel_x = 0;
 	pixel_y = -24
+	},
+/obj/item/storage/pill_bottle/dice{
+	pixel_x = 10;
+	pixel_y = 0
+	},
+/obj/item/storage/pill_bottle/dice{
+	pixel_x = -8;
+	pixel_y = 13
 	},
 /turf/open/floor/carpet/red,
 /area/vtm/interior/chantry)
@@ -203415,7 +203435,7 @@ gZQ
 tUj
 sgk
 cny
-mvq
+dxd
 dMw
 lzL
 ucj
