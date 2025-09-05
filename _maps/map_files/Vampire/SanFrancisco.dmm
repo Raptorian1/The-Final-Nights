@@ -84715,10 +84715,6 @@
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/open/floor/plating/vampgrass,
 /area/vtm/pacificheights)
-"uXe" = (
-/obj/matrix,
-/turf/open/space/basic,
-/area/vtm/northbeach)
 "uXs" = (
 /obj/structure/chair/sofa/old/right{
 	color = "#525252";
@@ -110947,8 +110943,8 @@ rCB
 rCB
 rCB
 rCB
-uXe
-uXe
+rCB
+rCB
 rCB
 rCB
 rCB
