@@ -31270,6 +31270,9 @@
 	color = "#503e28";
 	dir = 4
 	},
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
 "hUd" = (
@@ -32647,6 +32650,16 @@
 	},
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/apartment)
+"ikW" = (
+/obj/effect/turf_decal/siding/wood{
+	color = "#503e28";
+	dir = 6
+	},
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
+/turf/open/floor/carpet/royalblack,
+/area/vtm/interior/giovanni)
 "ilc" = (
 /obj/effect/decal/wallpaper/stone/low,
 /turf/closed/wall/vampwall/market,
@@ -36843,6 +36856,9 @@
 	},
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 4
+	},
+/obj/structure/sign/painting/library{
+	pixel_y = 32
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -43954,11 +43970,10 @@
 	name = "dim light fixture";
 	dir = 4
 	},
-/obj/item/canvas/twentythree_twentythree,
-/obj/item/canvas/twentythree_twentythree,
-/obj/item/canvas/twentythree_twentythree,
-/obj/item/canvas/twentythree_twentythree,
 /obj/item/storage/crayons,
+/obj/item/canvas/twentyfour_twentyfour,
+/obj/item/canvas/twentyfour_twentyfour,
+/obj/item/canvas/twentyfour_twentyfour,
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
 "kYo" = (
@@ -45904,6 +45919,9 @@
 /area/vtm/graveyard)
 "luN" = (
 /obj/structure/chair/sofa/corp/left,
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
 /turf/open/floor/plating/parquetry/rich,
 /area/vtm/interior/giovanni)
 "lve" = (
@@ -49948,6 +49966,12 @@
 	dir = 1
 	},
 /turf/open/floor/carpet/royalblack,
+/area/vtm/interior/giovanni)
+"msY" = (
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
+/turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
 "mte" = (
 /obj/structure/closet/cabinet,
@@ -63942,6 +63966,15 @@
 /obj/structure/trashcan,
 /turf/open/floor/plating/sidewalkalt,
 /area/vtm/financialdistrict/library)
+"pLg" = (
+/obj/effect/turf_decal/siding/wideplating/dark{
+	dir = 4
+	},
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
+/turf/open/floor/plating/woodfancy,
+/area/vtm/interior/giovanni)
 "pLk" = (
 /obj/effect/decal/bordur,
 /obj/structure/lamppost/one,
@@ -82490,6 +82523,12 @@
 	},
 /turf/open/floor/plating/stone,
 /area/vtm/forest/caves)
+"utP" = (
+/obj/structure/sign/painting/library{
+	pixel_y = 32
+	},
+/turf/open/floor/plating/vampplating/stone,
+/area/vtm/interior/giovanni)
 "utQ" = (
 /obj/effect/turf_decal/siding/wideplating/dark,
 /obj/machinery/light/small/red{
@@ -85819,6 +85858,9 @@
 /obj/effect/turf_decal/siding/wood{
 	color = "#503e28";
 	dir = 8
+	},
+/obj/structure/sign/painting/library{
+	pixel_y = 32
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -151220,7 +151262,7 @@ oYt
 (66,1,2) = {"
 uvs
 ijU
-wuF
+ikW
 vTe
 mIa
 aOh
@@ -188597,7 +188639,7 @@ jjw
 jjw
 jjw
 ijU
-nIQ
+msY
 oML
 jjw
 jjw
@@ -190617,7 +190659,7 @@ jjw
 jjw
 jjw
 ijU
-nIQ
+msY
 hMl
 jjw
 jjw
@@ -227584,7 +227626,7 @@ bKy
 uFM
 ezn
 ijU
-wef
+utP
 wef
 wef
 eWa
@@ -228389,7 +228431,7 @@ vXR
 cKf
 eNj
 ijU
-nIQ
+msY
 nIQ
 xyz
 kGs
@@ -230611,7 +230653,7 @@ jjw
 jjw
 jjw
 ijU
-cKf
+pLg
 cKf
 jjw
 jjw
