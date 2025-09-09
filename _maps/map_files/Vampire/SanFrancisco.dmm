@@ -75742,6 +75742,16 @@
 	},
 /turf/open/floor/plating/toilet,
 /area/vtm/clinic/haven)
+"suG" = (
+/obj/effect/turf_decal/siding/wideplating/dark{
+	dir = 1
+	},
+/obj/structure/easel,
+/obj/item/canvas/twentyfour_twentyfour,
+/obj/item/canvas/twentyfour_twentyfour,
+/obj/item/canvas/twentyfour_twentyfour,
+/turf/open/floor/plating/woodfancy,
+/area/vtm/interior/giovanni)
 "suI" = (
 /obj/structure/vampipe{
 	icon_state = "piping31"
@@ -82854,9 +82864,6 @@
 	dir = 4
 	},
 /obj/item/storage/crayons,
-/obj/item/canvas/twentyfour_twentyfour,
-/obj/item/canvas/twentyfour_twentyfour,
-/obj/item/canvas/twentyfour_twentyfour,
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
 "uga" = (
@@ -109843,7 +109850,7 @@ rCB
 rCB
 "}
 (54,1,1) = {"
-vgs
+rCB
 nCO
 vqC
 pwi
@@ -110247,7 +110254,7 @@ xfw
 xfw
 "}
 (56,1,1) = {"
-rCB
+xfw
 rCB
 rCB
 bnb
@@ -110865,7 +110872,7 @@ xCb
 aLA
 bnb
 rCB
-rCB
+xfw
 rCB
 nCO
 qPh
@@ -112076,7 +112083,7 @@ bnb
 bnb
 rCB
 rCB
-rCB
+xfw
 rCB
 nnE
 jmi
@@ -112277,8 +112284,8 @@ rCB
 rCB
 rCB
 rCB
-rCB
-rCB
+xfw
+xfw
 rCB
 nnE
 nnE
@@ -112479,7 +112486,7 @@ rCB
 rCB
 rCB
 rCB
-rCB
+xfw
 rCB
 rCB
 rCB
@@ -148442,7 +148449,7 @@ ijU
 hNG
 aOh
 aOh
-ryx
+suG
 jjw
 bBT
 jDf
@@ -232460,9 +232467,9 @@ mjT
 iXN
 "}
 (61,1,4) = {"
-rCB
-rCB
-rCB
+xfw
+xfw
+xfw
 rCB
 ijU
 eOr
@@ -232662,9 +232669,9 @@ mjT
 iXN
 "}
 (62,1,4) = {"
-rCB
-rCB
-rCB
+xfw
+xfw
+xfw
 rCB
 ijU
 gxB
