@@ -3619,10 +3619,6 @@
 	},
 /turf/open/floor/plating/woodrough,
 /area/vtm/forest)
-"aVy" = (
-/obj/item/melee/curator_whip,
-/turf/open/floor/plating/sidewalk,
-/area/vtm/interior/giovanni/basement)
 "aVC" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 4
@@ -110830,7 +110826,7 @@ rCB
 cvy
 aMs
 dzC
-aVy
+hMs
 kuo
 jns
 jns
