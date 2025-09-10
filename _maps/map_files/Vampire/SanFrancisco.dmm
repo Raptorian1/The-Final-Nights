@@ -55867,7 +55867,9 @@
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm)
 "nHo" = (
-/obj/vampire_car/rand,
+/obj/vampire_car/rand{
+	access = "giovanni"
+	},
 /turf/open/floor/plating/asphalt,
 /area/vtm/interior/giovanni/outside)
 "nHw" = (
