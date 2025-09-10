@@ -147,8 +147,10 @@
 /obj/effect/turf_decal/siding/wideplating/dark/corner{
 	dir = 8
 	},
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant5";
+	pixel_y = 7;
+	pixel_x = 5
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -12204,8 +12206,10 @@
 	color = "#503e28";
 	dir = 6
 	},
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 5;
+	pixel_x = 0
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni/outside)
@@ -14754,11 +14758,13 @@
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm)
 "dJZ" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
-	},
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 1
+	},
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 5;
+	pixel_x = 0
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -18843,8 +18849,10 @@
 	color = "#503e28";
 	dir = 10
 	},
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 5;
+	pixel_x = 0
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni/outside)
@@ -25248,8 +25256,10 @@
 /area/vtm/interior/techshop)
 "gqf" = (
 /obj/structure/railing,
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant3";
+	pixel_y = 11;
+	pixel_x = -2
 	},
 /turf/open/floor/plating/parquetry/rich,
 /area/vtm/interior/giovanni)
@@ -28680,14 +28690,16 @@
 /turf/open/floor/plating/vampgrass,
 /area/vtm/park)
 "hhy" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
-	},
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 4
 	},
 /obj/structure/sign/painting/library{
 	pixel_y = 32
+	},
+/obj/item/kirbyplants{
+	icon_state = "plant2";
+	pixel_y = 10;
+	pixel_x = 0
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -40842,8 +40854,9 @@
 /area/vtm/pacificheights/community)
 "kfG" = (
 /obj/effect/turf_decal/siding/wideplating/dark/corner,
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	pixel_x = 0;
+	pixel_y = 10
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -44084,11 +44097,13 @@
 /turf/open/floor/plating/bacotell,
 /area/vtm/interior)
 "kSE" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
-	},
 /obj/effect/turf_decal/siding/wideplating/dark/corner{
 	dir = 4
+	},
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 13;
+	pixel_x = -6
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -65212,8 +65227,10 @@
 /turf/open/floor/plating/vampplating/stone,
 /area/vtm/interior/bianchiBank)
 "pRd" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant2";
+	pixel_y = 2;
+	pixel_x = -1
 	},
 /turf/open/floor/carpet/royalblack,
 /area/vtm/interior/giovanni)
@@ -69007,8 +69024,10 @@
 /turf/open/floor/plating/vampplating,
 /area/vtm/clinic/haven)
 "qKM" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 5;
+	pixel_x = 0
 	},
 /turf/open/floor/plating/parquetry/rich,
 /area/vtm/interior/giovanni)
@@ -69688,6 +69707,14 @@
 	},
 /turf/open/floor/plating/circled,
 /area/vtm/interior/wyrm_corrupted)
+"qSG" = (
+/obj/item/kirbyplants{
+	icon_state = "plant3";
+	pixel_y = 15;
+	pixel_x = 11
+	},
+/turf/open/floor/plating/parquetry/rich,
+/area/vtm/interior/giovanni)
 "qSI" = (
 /obj/structure/vampdoor/reinf{
 	lock_id = "pentex";
@@ -75472,8 +75499,10 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 1
 	},
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant-17";
+	pixel_y = 12;
+	pixel_x = -1
 	},
 /turf/open/floor/plating/woodfancy,
 /area/vtm/interior/giovanni)
@@ -81725,8 +81754,9 @@
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm/clinic/haven)
 "tPT" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	pixel_x = 0;
+	pixel_y = 6
 	},
 /turf/open/floor/plating/church,
 /area/vtm/interior/giovanni/outside)
@@ -90319,8 +90349,10 @@
 /turf/open/floor/plating/rough,
 /area/vtm/sewer/nosferatu_bar)
 "wdx" = (
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 7;
+	pixel_x = -4
 	},
 /turf/open/floor/plating/vampplating/stone,
 /area/vtm/interior/giovanni)
@@ -92569,8 +92601,9 @@
 /obj/machinery/light/prince{
 	pixel_y = 29
 	},
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	pixel_x = 0;
+	pixel_y = 6
 	},
 /turf/open/floor/plating/parquetry/rich,
 /area/vtm/interior/giovanni)
@@ -95875,8 +95908,10 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 8
 	},
-/obj/item/kirbyplants/random{
-	pixel_y = 5
+/obj/item/kirbyplants{
+	icon_state = "plant2";
+	pixel_y = 3;
+	pixel_x = 2
 	},
 /turf/open/floor/plating/vampplating/stone,
 /area/vtm/interior/giovanni)
@@ -97527,6 +97562,15 @@
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/open/floor/plating/sidewalk/old,
 /area/vtm/financialdistrict)
+"xOW" = (
+/obj/effect/turf_decal/siding/wideplating/dark/corner,
+/obj/item/kirbyplants{
+	icon_state = "plant5";
+	pixel_y = 4;
+	pixel_x = -3
+	},
+/turf/open/floor/plating/woodfancy,
+/area/vtm/interior/giovanni)
 "xPc" = (
 /obj/structure/chair/wood/wings{
 	dir = 4
@@ -151666,7 +151710,7 @@ oYt
 "}
 (60,1,2) = {"
 ijU
-oFI
+qSG
 oFI
 mLK
 oFI
@@ -189648,7 +189692,7 @@ nFx
 ydz
 nFx
 ijU
-kfG
+xOW
 psf
 abe
 tDD
