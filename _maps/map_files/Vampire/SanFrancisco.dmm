@@ -11993,6 +11993,7 @@
 /obj/item/clothing/head/fedora,
 /obj/item/reagent_containers/food/drinks/bottle/wine,
 /obj/item/reagent_containers/food/drinks/bottle/wine,
+/obj/item/clothing/suit/vampire/trench/alt/armored,
 /turf/open/floor/plating/parquetry/rich,
 /area/vtm/interior/giovanni)
 "dau" = (
@@ -20783,6 +20784,8 @@
 /area/vtm/interior/shop)
 "fiZ" = (
 /obj/structure/easel,
+/obj/item/canvas/twentyfour_twentyfour,
+/obj/item/canvas/twentyfour_twentyfour,
 /obj/item/canvas/twentyfour_twentyfour,
 /obj/item/canvas/twentyfour_twentyfour,
 /obj/item/canvas/twentyfour_twentyfour,
