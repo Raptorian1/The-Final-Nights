@@ -41474,6 +41474,13 @@
 /obj/structure/table,
 /turf/open/floor/plating/church,
 /area/vtm/jazzclub)
+"kop" = (
+/obj/structure/vamptree{
+	pixel_x = -5;
+	pixel_y = 5
+	},
+/turf/open/floor/plating/vampgrass,
+/area/vtm)
 "kot" = (
 /obj/structure/table,
 /obj/machinery/button/door{
@@ -63067,7 +63074,6 @@
 /turf/open/floor/plating/vampdirt,
 /area/vtm/sewer/nosferatu_warren)
 "ppv" = (
-/obj/effect/cult_turf/overlay/floor,
 /turf/open/floor/bronze,
 /area/vtm/interior/chantry/basement)
 "ppz" = (
@@ -70751,6 +70757,15 @@
 	icon_state = "stone4"
 	},
 /area/vtm/sewer)
+"rgC" = (
+/obj/effect/decal/bordur{
+	dir = 4
+	},
+/obj/structure/vamptree{
+	icon_state = "tree3"
+	},
+/turf/open/floor/plating/vampgrass,
+/area/vtm)
 "rgG" = (
 /obj/effect/decal/wallpaper/stone/low{
 	pixel_y = 24;
@@ -246181,7 +246196,7 @@ mjT
 mjT
 mjT
 xkj
-wlT
+kop
 wlT
 eFC
 wlT
@@ -246597,7 +246612,7 @@ wlT
 lzt
 lzt
 lzt
-wlT
+mLp
 hMk
 mjT
 mjT
@@ -247394,7 +247409,7 @@ mjT
 mjT
 qUO
 rSq
-jgK
+rgC
 rSq
 jgK
 nVc
